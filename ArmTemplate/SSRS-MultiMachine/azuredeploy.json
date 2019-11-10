@@ -172,7 +172,7 @@
       "metadata": {
         "description": "The version of the OS for the Domain Controller"
       }
-    },	
+    }
   },
   "variables": {
     "assetLocation": "[concat(parameters('baseURL'),'/dsc')]",
