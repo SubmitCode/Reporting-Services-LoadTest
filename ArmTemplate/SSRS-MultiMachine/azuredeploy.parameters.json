@@ -27,19 +27,19 @@
       "value": "ssrsrtm"
     },
     "adVMSize": {
-      "value": "Standard_DS2_v2"
+      "value": "Standard_B2s"
     },
     "sqlVMSize": {
-      "value": "Standard_DS4_v2"
+      "value": "Standard_B2s"
     },
     "ssrsVMSize": {
-      "value": "Standard_DS4_v2"
+      "value": "Standard_B2s"
     },
     "sqlImageVersion": {
-      "value": "SQL2016SP1-WS2016"
+      "value": "SQL2017-WS2016"
     },
     "sqlImageSKU": {
-      "value": "Enterprise"
+      "value": "SQLDEV"
     },
     "ssrsImageVersion": {
       "value": "2016-Datacenter"
